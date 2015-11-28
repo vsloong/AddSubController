@@ -13,7 +13,7 @@
 主要使用两个Button和一个TextView来实现效果，
 按钮背景依靠layer-list和shap的属性来绘制圆角矩形，
 具体代码见drawable文件夹：
-‘
+
     <LinearLayout
         android:layout_width="match_parent"
         android:layout_height="50dp"
@@ -49,7 +49,7 @@
             android:textColor="@android:color/white"
             android:textSize="20sp" />
     </LinearLayout>
-’
+
 
 
  
